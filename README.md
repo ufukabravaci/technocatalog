@@ -11,6 +11,13 @@ Bu proje, Flutter eğitim haftası kapsamında geliştirilmiş temel seviye bir 
 - **Sepet Simülasyonu:** Global State simülasyonu sayesinde kullanıcılar ürünleri sepete ekleyebilir, Navbar'daki canlı sepet göstergesinde (Badge) ürün sayısını görebilir ve Sepet (`CartView`) sayfasından ürünleri listeden çıkartabilir.
 - **Modern Mimari:** Klasörleme yapısı endüstri standartlarına uygun şekilde MVC (Model, View, Component, Service) mimarisine göre organize edilmiştir.
 
+## 🛠️ Kullanılan Araçlar ve Sürümler
+
+- **Geliştirme Ortamı:** Visual Studio Code
+- **Flutter SDK Sürümü:** 3.44.2
+- **Dart Sürümü:** 3.12.2
+- **Kullanılan Paketler:** `http` (Ağ istekleri için), `cupertino_icons`
+
 ## 🚀 Çalıştırma Adımları
 
 Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
